@@ -1,0 +1,9 @@
+D:\Material\SIU_LYTHUYET\CNPTPMTT\Parking_Basic\Parking\DAL\bin\Debug\DAL.dll
+D:\Material\SIU_LYTHUYET\CNPTPMTT\Parking_Basic\Parking\DAL\bin\Debug\DAL.pdb
+D:\Material\SIU_LYTHUYET\CNPTPMTT\Parking_Basic\Parking\DAL\bin\Debug\DTO.dll
+D:\Material\SIU_LYTHUYET\CNPTPMTT\Parking_Basic\Parking\DAL\bin\Debug\DTO.pdb
+D:\Material\SIU_LYTHUYET\CNPTPMTT\Parking_Basic\Parking\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Material\SIU_LYTHUYET\CNPTPMTT\Parking_Basic\Parking\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Material\SIU_LYTHUYET\CNPTPMTT\Parking_Basic\Parking\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Material\SIU_LYTHUYET\CNPTPMTT\Parking_Basic\Parking\DAL\obj\Debug\DAL.dll
+D:\Material\SIU_LYTHUYET\CNPTPMTT\Parking_Basic\Parking\DAL\obj\Debug\DAL.pdb
