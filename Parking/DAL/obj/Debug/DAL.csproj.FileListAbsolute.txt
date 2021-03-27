@@ -7,3 +7,12 @@ D:\Material\SIU_LYTHUYET\CNPTPMTT\Parking_Basic\Parking\DAL\obj\Debug\DAL.csproj
 D:\Material\SIU_LYTHUYET\CNPTPMTT\Parking_Basic\Parking\DAL\obj\Debug\DAL.csproj.CopyComplete
 D:\Material\SIU_LYTHUYET\CNPTPMTT\Parking_Basic\Parking\DAL\obj\Debug\DAL.dll
 D:\Material\SIU_LYTHUYET\CNPTPMTT\Parking_Basic\Parking\DAL\obj\Debug\DAL.pdb
+D:\GITHUB\ParkingDemo\Parking\DAL\bin\Debug\DAL.dll
+D:\GITHUB\ParkingDemo\Parking\DAL\bin\Debug\DAL.pdb
+D:\GITHUB\ParkingDemo\Parking\DAL\bin\Debug\DTO.dll
+D:\GITHUB\ParkingDemo\Parking\DAL\bin\Debug\DTO.pdb
+D:\GITHUB\ParkingDemo\Parking\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\GITHUB\ParkingDemo\Parking\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\GITHUB\ParkingDemo\Parking\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\GITHUB\ParkingDemo\Parking\DAL\obj\Debug\DAL.dll
+D:\GITHUB\ParkingDemo\Parking\DAL\obj\Debug\DAL.pdb

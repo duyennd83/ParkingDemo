@@ -231,6 +231,7 @@ namespace GUI
             {
                 Parking parking = new Parking();
                 parking.CardID1 = dt.Rows[i]["IDCard"].ToString();
+                /*string v = dt.Rows[i]["Times"].ToString()*/;
                 parking.Time1 = DateTime.Parse(dt.Rows[i]["Times"].ToString());
                 parking.Image = dt.Rows[i]["Image"].ToString();
                 parking.Status1 = dt.Rows[i]["Status"].ToString();

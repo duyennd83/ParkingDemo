@@ -42,3 +42,14 @@ D:\Material\SIU_LYTHUYET\CNPTPMTT\Parking_Basic\MagtekCardReader_Parking\obj\x86
 D:\Material\SIU_LYTHUYET\CNPTPMTT\Parking_Basic\MagtekCardReader_Parking\obj\x86\Debug\MagtekCardReader.csproj.CopyComplete
 D:\Material\SIU_LYTHUYET\CNPTPMTT\Parking_Basic\MagtekCardReader_Parking\obj\x86\Debug\MagtekCardReader.exe
 D:\Material\SIU_LYTHUYET\CNPTPMTT\Parking_Basic\MagtekCardReader_Parking\obj\x86\Debug\MagtekCardReader.pdb
+D:\GITHUB\ParkingDemo\MagtekCardReader_Parking\bin\Debug\MagtekCardReader.exe.config
+D:\GITHUB\ParkingDemo\MagtekCardReader_Parking\bin\Debug\MagtekCardReader.exe
+D:\GITHUB\ParkingDemo\MagtekCardReader_Parking\bin\Debug\MagtekCardReader.pdb
+D:\GITHUB\ParkingDemo\MagtekCardReader_Parking\bin\Debug\HidLibrary.dll
+D:\GITHUB\ParkingDemo\MagtekCardReader_Parking\bin\Debug\Theraot.Core.dll
+D:\GITHUB\ParkingDemo\MagtekCardReader_Parking\bin\Debug\HidLibrary.pdb
+D:\GITHUB\ParkingDemo\MagtekCardReader_Parking\obj\x86\Debug\MagtekCardReader.csprojAssemblyReference.cache
+D:\GITHUB\ParkingDemo\MagtekCardReader_Parking\obj\x86\Debug\MagtekCardReader.csproj.CoreCompileInputs.cache
+D:\GITHUB\ParkingDemo\MagtekCardReader_Parking\obj\x86\Debug\MagtekCardReader.csproj.CopyComplete
+D:\GITHUB\ParkingDemo\MagtekCardReader_Parking\obj\x86\Debug\MagtekCardReader.exe
+D:\GITHUB\ParkingDemo\MagtekCardReader_Parking\obj\x86\Debug\MagtekCardReader.pdb
